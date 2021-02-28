@@ -46,12 +46,17 @@
 #### ==> 🌐 Tecnologias Utilizadas:
  1. React.
  2. Next.
- 3. Typescript.
- 4. Yarn.
- 5. Node.js.
+ 3. TypeScript.
+ 4. Node.js.
+ 5. Yarn.
 
 ---
 
 #### ==> 🚀🤝💜 Agradecimentos:
  Essa foi minha primeira Next Level Week (NLW), e eu tô muito feliz... 
- Nunca tinha desenvolvido em TypeScript, Next e nem em React antes, e mesmo assim, consegui aprender muita coisa, o que só demonstra o quão incrível é a didática de vocês e o quão dedicado eu estou em evoluir na programação e sempre buscar o próximo nível...
+ **Obrigado Rocketseat** 🚀💜. Nunca tinha desenvolvido em TypeScript, Next e nem em React antes, e mesmo assim, consegui aprender muita coisa, o que só demonstra o quão incrível é a didática de vocês e o quão dedicado eu estou em evoluir na programação e sempre buscar o próximo nível...
+
+ #NextLevelWeek04
+ #MissionComplete
+ #NeverStopLearning
+ 🚀💜
